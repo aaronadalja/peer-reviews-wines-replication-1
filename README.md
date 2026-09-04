@@ -14,4 +14,5 @@ peer_reviews_wine_replication_r1.R - This is the R code file that is used to pro
 data folder:
 
 rawdata_pro_r1.csv - raw survey response data
+
 region.csv - US state to region mappings
